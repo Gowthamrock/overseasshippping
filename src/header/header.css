@@ -1,0 +1,452 @@
+.dotted-line6 {
+  border-top: 2px dotted #5472d2 !important;
+  border-image: linear-gradient(to right, #00c1cf, #5472d2) 1 0 0 0 !important;
+  width: 125% !important;
+  margin-top: 10% !important;
+  margin-left: -24px;
+  /* margin: 10px 0; */
+}
+.login-style {
+  width: 40px !important;
+  height: 35px !important;
+  margin-top: 22px;
+}
+.login-style:hover {
+  /* background-color: white; */
+  /* transition: 0.5s;
+  transform: rotatex(380deg); */
+  /* background-image: linear-gradient(to top right,#0ec5a0,#0ec5a0,#8055ee,#8055ee) !important; */
+}
+.icon-container {
+  width: 100px;
+  height: 45px;
+}
+
+.icon-container img {
+  width: 100%;
+  height: auto;
+}
+
+.icon-container img:nth-child(2) {
+  display: none;
+}
+
+.icon-container:hover img:nth-child(1) {
+  display: none;
+}
+
+.icon-container:hover img:nth-child(2) {
+  display: block;
+}
+.sticky-icon {
+  z-index: 1;
+  position: fixed;
+  top: 80px;
+  margin-top: 280px;
+  right: 0%;
+  width: 195px !important;
+  display: flex;
+  flex-direction: column;
+}
+.sticky-icon a {
+  transform: translate(160px, 0px);
+  border-radius: 12px 0px 0px 12px;
+  text-align: left;
+  margin: 4px;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+  transition: all 1.2s ease 10s;
+}
+.sticky-icon a:hover {
+  color: #fff;
+  transform: translate(0px, 0px);
+}
+.sticky-icon a:hover i {
+  transform: rotate(360deg);
+}
+/*.search_icon a:hover i  {
+	transform:rotate(360deg);}*/
+.Facebook {
+  background-color: #2c80d3;
+  color: #fff;
+}
+
+.Linkedin {
+  background-color: #258dbf;
+  color: #fff;
+}
+
+.Twitter {
+  background-image: linear-gradient(
+    to right,
+
+    #14171a 50%,
+    #f5f8fa 100%
+  ) !important;
+
+  color: #fff;
+}
+
+.Instagram {
+  background-image: linear-gradient(
+    to right,
+    #ee2a7b 0%,
+    #f9ce34 50%,
+    #6228d7 100%
+  ) !important;
+  color: #fff;
+}
+
+.Whatsapp {
+  background-color: #25d366;
+  color: #fff;
+}
+.sticky-icon a i {
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  line-height: 40px !important;
+  border-radius: 50%;
+  margin-right: 20px;
+  transition: all 0.5s;
+}
+.sticky-icon a i.fa-facebook-f {
+  background-color: #fff;
+  color: #2c80d3;
+}
+
+.sticky-icon a i.fa-google-plus-g {
+  background-color: #fff;
+  color: #d34836;
+}
+
+.sticky-icon a i.fa-instagram {
+  background-color: #fff;
+  color: #fd1d1d;
+}
+
+.sticky-icon a i.fa-youtube {
+  background-color: #fff;
+  color: #fa0910;
+}
+
+.sticky-icon a i.fa-twitter {
+  background-color: #fff;
+  color: #53c5ff;
+}
+.social-icon {
+  font-size: 20px !important;
+}
+.header-style {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  padding: 10px 15px;
+}
+.header-style:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  /* color: white !important; */
+  border-radius: 10px !important;
+}
+
+/* fixed social*/
+#fixed-social {
+  z-index: 1;
+  position: fixed;
+  top: 40%;
+  margin-left: 200px;
+  right: 0%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+#fixed-social a {
+  color: #fff;
+  display: block;
+  height: 40px;
+  position: relative;
+  text-align: center;
+  line-height: 40px;
+  width: 40px;
+  margin-bottom: 1px;
+  z-index: 2;
+  margin: 5px 5px 5px 5px;
+  border-radius: 50px !important;
+}
+#fixed-social a:hover > span {
+  visibility: visible;
+  left: 41px;
+  opacity: 1;
+}
+#fixed-social a span {
+  line-height: 40px;
+  left: 60px;
+  position: absolute;
+  text-align: center;
+  width: 120px;
+  visibility: hidden;
+  transition-duration: 0.5s;
+  z-index: 1;
+  opacity: 0;
+}
+.fixed-whatspp {
+  background-color: #25d366;
+  color: #fff;
+}
+.fixed-whatspp span {
+  background-color: #25d366;
+  color: #fff;
+}
+.fixed-facebook {
+  background-color: #2c80d3;
+  color: #fff;
+}
+.fixed-facebook span {
+  background-color: #2c80d3;
+  color: #fff;
+}
+.fixed-xtwitter {
+  background-image: linear-gradient(
+    to right,
+
+    #14171a 50%,
+    #f5f8fa 100%
+  ) !important;
+
+  color: #fff;
+}
+.fixed-xtwitter span {
+  background-image: linear-gradient(
+    to right,
+
+    #14171a 50%,
+    #f5f8fa 100%
+  ) !important;
+
+  color: #fff;
+}
+.fixed-instagram {
+  background-image: linear-gradient(
+    to right,
+    #ee2a7b 0%,
+    #f9ce34 50%,
+    #6228d7 100%
+  ) !important;
+  color: #fff;
+}
+.fixed-instagram span {
+  background-image: linear-gradient(
+    to right,
+    #ee2a7b 0%,
+    #f9ce34 50%,
+    #6228d7 100%
+  ) !important;
+  color: #fff;
+}
+.fixed-linkedin {
+  background-color: #258dbf;
+  color: #fff;
+}
+.fixed-linkedin span {
+  background-color: #258dbf;
+  color: #fff;
+}
+.header-style-left {
+  margin-left: 30px;
+}
+.icons-style {
+  font-size: 30px;
+  margin-top: 5px;
+}
+.dropdown-text{
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+}
+.dropdown-toggle::after {
+  font-size: 24px;
+  margin: 1px 1px -8px -13px;
+}
+
+/* media query for header*/
+@media (max-width: 576px) {
+  .header-style {
+    white-space: nowrap;
+  }
+  .icons-style {
+    font-size: 30px;
+    margin-top: 5px;
+  }
+  #fixed-social{
+    right: 1%;
+  }
+  .toggler-style{
+    margin-left: 31%;
+  }
+
+  /* .icon-container img {
+    display: none;
+  }
+  .icon-container:hover {
+    display: none;
+  }
+  .icon-container img:nth-child(2) {
+    display: none;
+  } */
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .header-style {
+    white-space: nowrap;
+  }
+  .toggler-style{
+    margin-left: 31%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .dropdown-padding {
+    margin-left: -8%;
+    margin-bottom: -20px;
+}
+  .header-style {
+    white-space: nowrap;
+  }
+  #fixed-social{
+    right: 1% !important;
+  }
+  .toggler-style{
+    margin-left: 620%;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1300px) {
+  .header-style {
+    white-space: nowrap;
+  }
+}
+/*end fixed social*/
+
+.mobile-menu-visible {
+  display: block !important;
+}
+
+.toggler-hidden {
+  display: none !important;
+}
+@media (max-width: 576px) {
+  /* #fixed-social {
+    display: none;
+  } */
+  .Dropdown.Menu {
+    --bs-dropdown-bg:none;
+  }
+
+  .dropdown-padding {
+    margin-left: -8%;
+    margin-bottom: -20px;
+  }
+  .dropdown-style{
+  
+    display: block;
+    background-image: linear-gradient(
+      135deg,
+      #ffb629,
+      #ffda56 50%,
+      #ffd7a6
+    ) !important;
+  }
+  .dropdown-style > a {
+    color: #000 !important;
+    margin: 0;
+    padding: 10px;
+    margin-left: -4px !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+  }
+  .dropdown-style > a:hover {
+    background-image: linear-gradient(
+      to right,
+      rgb(9, 18, 66) 0%,
+      #5472d2 50%,
+      #00c1cf 100%
+    ) !important;
+    color: rgb(0, 0, 0) !important;
+    width: 128% !important;
+    height: 100% !important;
+    box-shadow: linear-gradient(
+        to right,
+        rgb(9, 18, 66) 0%,
+        #5472d2 50%,
+        #00c1cf 100%
+      )
+      10px 10px 20px 10px;
+  }
+}
+@media only screen and (max-width: 768px) {
+
+  .dropdown-style {
+    display: block;
+    background-image: linear-gradient(
+      135deg,
+      #ffb629,
+      #ffda56 50%,
+      #ffd7a6
+    ) !important;
+  }
+  .dropdown-style > a {
+    color: #000 !important;
+    margin: 0;
+    padding: 10px;
+    margin-left: -4px !important;
+    text-decoration: none !important;
+    white-space: nowrap !important;
+  }
+  .dropdown-style > a:hover {
+    background-image: linear-gradient(
+      to right,
+      rgb(9, 18, 66) 0%,
+      #5472d2 50%,
+      #00c1cf 100%
+    ) !important;
+    color: white !important;
+    width: 128% !important;
+    height: 100% !important;
+    box-shadow: linear-gradient(
+        to right,
+        rgb(9, 18, 66) 0%,
+        #5472d2 50%,
+        #00c1cf 100%
+      )
+      10px 10px 20px 10px;
+  }
+  .menu-ezq {
+    display: none;
+  }
+  /* #fixed-social {
+    display: none;
+  } */
+
+  .toggler-hidden {
+    display: none !important;
+  }
+  .hidden-tooltip .tooltip {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .toggler-hidden {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .icon-container {
+    width: 84px;
+    height: 45px;
+  }
+}

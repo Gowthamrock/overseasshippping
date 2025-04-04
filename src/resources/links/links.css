@@ -1,0 +1,150 @@
+.cta-container-2{
+    background-image: url(../../assets/ctabg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.cta-container-2 h2{
+    margin: 0;
+    color: white;
+    font-size: 24px;
+}
+.cta-container-2 p{
+    font-size: 18px;
+    color: #091242;
+    margin: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em 
+}
+
+.links-container{
+    max-width: 100% !important;
+    margin: auto;
+    padding: 30px 50px;
+}
+
+.links-container h3{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.5em;
+}
+
+.links-container a {
+    font-size: 18px;
+    color: #091242;
+}
+.links-container a:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration:none !important;
+}
+.linksbanner-image{
+  background: url(../../assets/resources-banner2.jpg);
+  width: 1600px;
+  height: 500px;
+}
+
+  .dotted-line {
+    border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 20%;
+    margin: 10px 0;
+  }
+  .dotted-line1 {
+    border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 30%;
+    margin: 10px 0;
+  }
+  .dotted-line2 {
+    border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 55%;
+    margin: 10px 0;
+  }
+  .dotted-line3 {
+    border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .dotted-line4 {
+    border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 95%;
+    margin: 10px 0;
+  }
+  .dotted-line5 {
+     border-top: 4px dotted #5472d2 !important;
+    border-image: linear-gradient(to right,#00c1cf,#5472d2) 1 0 0 0;
+    width: 45%;
+    margin: 10px 0;
+  }
+  .arrow-style1 {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(29, 115, 231, 1) !important;
+    border: 10px solid rgba(29, 115, 231, 1) !important;
+    border-radius: 20px !important;
+    float: right !important;
+    margin-right: 90px !important;
+  }
+  .vc_-xwe2 {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+  
+    /* background:  url("../src/assets/cta.jpg"); */
+    /* background-image: url(https://overseasshippinginc.com/wp-content/uploads/2020/07/imagesSS-2.jpg?id=1610) !important;  */
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% 100%;
+  }
+  .wrapper-5b2 .col-lc6.column-691.container-ccd2 {
+    /* margin-left: 75px; */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border: 2px solid #091242;
+    border-radius: 15px;
+    background-color: rgba(49, 198, 247, 0.75) !important;
+  }
+  /* media qurery  */
+  @media (max-width: 576px) {
+    .vc_-xwe2 {
+      margin-left: -8% !important;
+  }
+  .wrapper-5b2 .col-lc6.column-691.container-ccd2 {
+    margin-left: 15%;
+  }
+    .arrow-style1 {
+      margin-right: -25px !important;
+  }
+  .portal-padding{
+    margin-top: 30px;
+  }
+  .linksbanner-image{
+    height: 450px;
+    width: 550px;
+    background: url(../../assets/useful-links-mobile.jpg);
+  }
+  }
+  @media (min-width:576px)and (max-width: 768px) {
+    .portal-padding{
+      margin-top: 30px;
+    }
+    .arrow-style1 {
+      margin-right: -15px !important;
+  }
+  }
+  @media (min-width:768px)and (max-width: 1024px) {
+    .arrow-style1 {
+      margin-right: -15px !important;
+  }
+  .wrapper-5b2 .col-lc6.column-691.container-ccd2 {
+    /* margin-left: 5%; */
+    margin-right: 5%;
+  }
+  }
+ 

@@ -1,0 +1,141 @@
+.container {
+  min-height: 100%;
+  /* padding: 30px;
+    font-family: 'PT Sans'; */
+  text-align: center;
+}
+
+h1 {
+  /* text-align: center; */
+  color: #1569a8;
+}
+
+.btn {
+  /* display: inline-block; */
+  /* margin-bottom: 20px; */
+  /* border: 1px solid #1569a8; */
+  background: none;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  margin-right: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn:hover {
+  background-image: linear-gradient( to right, rgb(9, 18, 66) 0%, #5472d2 50%, #00c1cf 100% );
+  color: white;
+  transition: 0.5s;
+}
+
+.faq .accordion {
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px 20px;
+}
+.accordion:first-child {
+  padding-left: 0;
+}
+
+/* .accordion .title {
+  padding: 10px 30px;
+  cursor: pointer;
+  transform: translate3d(0, 0, 0);
+  color: white;
+  position: relative;
+  font-size: 20px;
+  background: rgb(55 73 169);
+  margin-bottom: -1px;
+  border-bottom: 1px solid #0e4671;
+  text-align: left;
+  display: flex;
+} */
+
+.accordion .title:after {
+  content: "\25B2";
+  font-size: 18px;
+  color: white;
+  transition: transform 0.5s ease-in-out;
+  position: absolute;
+  right: 30px;
+  font-family: monospace;
+}
+
+.accordion .title.is-expanded {
+  transition: background 0.5s;
+  background: rgb(55 73 169);
+  display: flex;
+}
+
+.accordion .title.is-expanded:after {
+  content: "\25be";
+  transform: rotate(-360deg);
+}
+
+.accordion .content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s;
+  margin: 0;
+  padding: 0 30px;
+  border: solid 1px #eeeeee;
+  border-top: 0;
+  background: #fff !important;
+}
+
+.accordion .content p {
+  padding: 15px 0;
+  margin: 0;
+  opacity: 0;
+  transition: 0.5s;
+  color: black !important;
+}
+
+.accordion .content.is-expanded {
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.accordion .content.is-expanded p {
+  opacity: 1;
+  text-align: left;
+}
+
+.accordion:after {
+  width: 100%;
+  height: 10px;
+  display: block;
+  /* background: #ffffff !important; */
+  content: "";
+}
+.accordionIcon {
+  background-image: linear-gradient(135deg, #ffb629, #ffda56 50%, #ffd7a6);
+  border-radius: 100%;
+  justify-content: center;
+  max-height: 65px;
+  max-width: 65px;
+  min-height: 65px;
+  min-width: 65px;
+}
+.accordionIcon img {
+  width: 57%;
+}
+.titleText {
+  font-size: 20px;
+  align-self: center;
+  padding: 0 30px;
+}
+.faq .titleText {
+  font-size: 14px !important;
+  padding: 0 !important;
+}
+/* media query for accordion  */
+@media(max-width:576px){
+  /* .faq .accordion {
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px 20px;
+  } */
+}

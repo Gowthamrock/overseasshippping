@@ -1,0 +1,106 @@
+.subtabContainer-common {
+  max-width: 100%;
+  margin: auto;
+  background-color: #f7efa9 !important;
+  padding: 50px;
+  margin-top: -6%;
+}
+.subtabContainer-common .tab-header span {
+  font-size: 16px;
+  margin: 0px 6px 0px 0px !important;
+  width: 20px;
+  height: 20px;
+  padding: 10px 20px;
+  color: #000 !important;
+  font-weight: 500 !important;
+}
+
+.subtabContainer-common .tab-header span:hover,
+.subtabContainer-common .tab-header span.active {
+  text-align: center;
+  border-bottom: 4px solid transparent;
+  border-image: linear-gradient(
+    0.25turn,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  border-image-slice: 1;
+  width: 100% !important;
+}
+.subtabContainer-common .tab-header span:hover {
+  /* margin: 0px 15px 0px 15px !important; */
+}
+.subtabContainer-common .tab-content {
+  margin-left: 37px;
+  margin-top: 30px;
+}
+.subtabContainer-common .tab-content .tab-description-container h2 {
+  font-size: 24px;
+}
+.subtabContainer-common .img-modify {
+}
+.subtabContainer-common .cus-1 {
+  font-size: 30px;
+}
+.subtabContainer-common .image-style {
+  border-radius: 15px;
+  width: 580px !important;
+  height: 387px !important;
+}
+.subtabContainer-common .text-container {
+  padding: 0 20px;
+  margin-top: 20px;
+}
+.subtabContainer-common .text-container1 {
+  padding: 0 20px;
+  margin-top: 30px;
+}
+.countryimg-style {
+  width: 148px !important;
+  height: 93px !important;
+  margin-left: 10%;
+}
+.countryFlags {
+  margin-left: 4% !important;
+}
+.card-style {
+  width: 200px;
+  height: 100px;
+  background: none !important;
+}
+.countryText-style {
+  margin-left: 34px;
+}
+/* .card-footer{
+  margin-left: -40%;
+} */
+/* media query for tab  */
+@media (max-width: 576px) {
+  .subtabContainer-common .tab-header span {
+    height: 20px;
+    margin: 3px 21px 26px 0 !important;
+    padding: 2px 11px;
+
+    width: 20px;
+  }
+  .countryFlags {
+    margin-left: -10% !important;
+  }
+  .countryText-style {
+    margin-left: -18%;
+  }
+  .subtabContainer-common .tab-header span.active {
+    border-bottom: 2px solid transparent;
+  }
+}
+@media (min-width: 362px) and (max-width: 400px) {
+  .subtabContainer-common {
+    margin-top: -25%;
+  }
+}
+@media (min-width: 400px) and (max-width: 576px) {
+  .subtabContainer-common {
+    margin-top: -30%;
+  }
+}

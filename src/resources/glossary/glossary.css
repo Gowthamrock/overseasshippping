@@ -1,0 +1,32 @@
+.arrow-style1 {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(29, 115, 231, 1) !important;
+    border: 10px solid rgba(29, 115, 231, 1) !important;
+    border-radius: 20px !important;
+    float: right !important;
+    margin-right: 90px !important;
+  }
+
+  .glossarybanner-image{
+    background: url(../../assets/resources-banner1.jpg);
+    width: 1600px;
+    height: 500px;
+  }
+    @media(max-width:576px){
+      .glossarybanner-image {
+        height: 450px !important;
+        width: 550px;
+        background: url(../../assets/terms-mobile.jpg);
+        
+        }
+    }
+    
+    @media(min-width:576px)and (max-width:768px){
+      .glossarybanner-image {
+       height: 400px;
+        }
+    }
+    @media(min-width:768px)and (max-width:992px){
+     
+    
+    }

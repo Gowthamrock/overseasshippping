@@ -1,0 +1,749 @@
+{
+  "services": {
+    "banners": [
+      {
+        "subtitle": "Welcome to Overseas Shipping Inc.USA",
+        "pageTitle": "Swift Shipping Expertise: USA to the Heart of the Middle East, Africa, and Europe!",
+        "description": "Experts in Shipping Automobiles, Household Goods, and a range of Trade Shipments via Container Shipping.",
+        "buttonText": "Learn More",
+        "url": "/services/auto"
+      },
+      {
+        "subtitle": " Automobile / RORO Shipping",
+        "pageTitle": "Swift and Secure Auto Shipping worldwide!",
+        "description": "Secure and Speedy Transport for Heavy Vehicles, Cars, Motorcycles, Motorhomes, Jetskis, and beyond.",
+        "buttonText": "Learn More"
+      },
+      {
+        "subtitle": "Household Goods Shipping",
+        "pageTitle": "Seamless Global Shipping for Your Household Goods!",
+        "description": "Trust in our Secure and Reliable Overseas Shipment of Your Belongings.",
+        "buttonText": "Learn More"
+      },
+      {
+        "subtitle": "International Container Shipping",
+        "pageTitle": "International Freight Excellence for Your Trade Cargo!",
+        "description": "Streamlined International Logistics with Freight Forwarding and Documentation Services for Competitive and Hassle-Free Container Shipping.",
+        "buttonText": "Learn More"
+      },
+      {
+        "subtitle": "Warehouse Management & Cross Docking",
+        "pageTitle": "Efficient Warehousing and Crossdocking Solutions!",
+        "description": "Optimize Space, Enhance Security, and enjoy Superior Services for seamless Export and Domestic Distribution.",
+        "buttonText": "Learn More"
+      },
+      {
+        "subtitle": "Overseas Shipping Inc",
+        "pageTitle": "Auto Shipping and International Shipping Experts"
+      },
+      {
+        "subtitle": "Shipping Services",
+        "pageTitle": "Hassle-Free International Shipping  – USA to the World"
+      }
+    ],
+    "glossary": [
+      {
+        "subtitle": "Info Center/Terms",
+        "pageTitle": "Explore our vast repository of useful industry information"
+      },
+      {
+        "subtitle": "Info Center/Useful Links",
+        "pageTitle": "Explore our vast repository of useful industry information"
+      },
+      {
+        "subtitle": "Contact Us",
+        "pageTitle": "Small to Heavy - We lift and ship them all, do reach out to us."
+      }
+    ],
+    "flipcards": [
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/services-auto-shipping.jpg",
+        "cardTitle": "Ship Automobiles",
+        "cardTitle2": "Auto/RORO Shipping",
+        "buttonTitle": "Learn More",
+        "backText": "Specialists in Auto Shipping",
+        "url": "/services/auto"
+      },
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/services-container-shipping.jpg",
+        "cardTitle": "Ship Trade Cargo",
+        "cardTitle2": "Container Shipping",
+        "buttonTitle": "Learn More",
+        "backText": "Hassle-free Container Shipping overseas ",
+        "url": "/services/international"
+      },
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/services-household-shipping.jpg",
+        "cardTitle": "Ship Overseas",
+        "cardTitle2": "Household Shipping",
+        "buttonTitle": "Learn More",
+        "backText": "Safe, dependable Household Shipping ",
+        "url": "/services/household"
+      },
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/services-warehousing.jpg",
+        "cardTitle": "Ship Door to Port",
+        "cardTitle2": "Warehouse / Cross Docking",
+        "buttonTitle": "Learn More",
+        "backText": "International and Domestic store house ",
+        "url": "/services/warehouse"
+      }
+    ],
+    "flipcardsservices": [
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/ocean-shipping2.jpg",
+        "cardTitle": "Ocean Shipping",
+        "cardTitle2": "Sail with Confidence",
+        "buttonTitle": "",
+        "backText": "Near Baltimore Port,we ensure secure,timely global shipping with top shiplines.Proficient in US Customs,we offer end-to-end shipping via container and RORO vessels."
+      },
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/inland-freight2.jpg",
+        "cardTitle": "Inland Freight",
+        "cardTitle2": "Swift, Reliable Inland Shipments ",
+        "buttonTitle": "",
+        "backText": "Upon arrival at the nearest seaport or airport, our 'hub and spoke' method swiftly transports goods overland to their destination.Our inland cargo service handles all cargo types for safe delivery."
+      },
+      {
+        "bgImage": "https://overseasshippinginc.com//static/media/air-freight2.jpg",
+        "cardTitle": "Air Freight",
+        "cardTitle2": "Efficient Air Shipments",
+        "buttonTitle": "",
+        "backText": "We ensure prompt air shipments with expert import, export, and customs paperwork, swiftly transporting diverse cargo, including perishables and hazardous materials,to destinations. "
+      }
+    ],
+    "serviceFlipcards": [
+      {
+        "subtitle": "Welcome to Overseas Shipping Inc.",
+        "pageTitle": "Reliable Swift Shipping Services - From USA to the Heart of the Middle East and Africa.",
+        "description": "Our expertise spans a Wide Range of Freight - from small packages to cars, motorcycles, heavy vehicles, household goods, and bulk container loads.",
+        "buttonText": "Discover More About Us"
+      }
+    ],
+    "autoShipping": {
+      "tabid": 0,
+      "tabHeader": "autoshipping",
+      "tabs": [],
+      "tabContents": [
+        [
+          {
+            "tabClass1": "Looking to Ship Your Automobiles Overseas?",
+            "tabClass1Description": "Overseas Shipping Inc. is your expert in US auto transport to the Middle East, Africa, and Europe, providingtop-notch customer service and competitive car shipping quotes.",
+            "tabClass0Description": "Rest assured, we handle long-distance car transportation efficiently and cost-effectively, ensuring your vehicle reaches the nearest port from your location. Proficient in Middle East shipping regulations and Languages",
+            "tab1Img": "auto",
+            "accordion1Header": "Step 1 . Research and Select a Car Shipping Company",
+            "accordion2Header": "Step 2 . Provide Detailed Vehicle Information",
+            "accordion3Header": "Step 3 . Specify Shipping Preferences",
+            "accordion4Header": "Step 4 . Language and Shipping Experience",
+            "accordion5Header": "Step 5 . Understand Pricing and Charges",
+            "accordion6Header": "Step 6 . Consider Insurance (if desired)",
+            "accordion7Header": "Step 7 . Review Vehicle Papers and Compliance",
+            "accordion1Pargaraph": "Begin your journey by researching local car shippingcompanies. Ensure they possess the necessary facilities,services, and expertise to safely transport your vehicle overseas.",
+            "accordion2Pargaraph": "Share crucial details about your car, including its weight,dimensions, color, images, and any pre-existing damages. Thisinformation helps the auto transport company estimate container space, provisions, and shipping costs accurately.",
+            "accordion3Pargaraph": "Indicate whether you prefer your vehicle to be transported in an open or covered carrier. Additionally, specify the desired delivery date at the overseas destination, as rates may varybased on your chosen service.",
+            "accordion4Pargaraph": "Confirm that the chosen company has substantial shipping experience and can communicate in the language of the country where you intend to ship your vehicle. This ensures smooth interactions and a hassle-free journey.",
+            "accordion5Pargaraph": " Double-check if the quoted rate includes all end-to-end charges and aligns with your budget and expectations. Don't hesitate to seek clarifications to avoid unexpecte costs upon vehicle collection at the destination.",
+            "accordion6Pargaraph": "While insurance is not mandatory for shipping goods overseas, you can arrange it if necessary. Your auto shipper can assist with document preparation for customs clearance, making the process smoother.",
+            "accordion7Pargaraph": " Ensure that your vehicle & documents are up to date and comply with overseas shipping regulations. If you have any doubts or questions, it's advisable to consult with your car shipper to guarantee a trouble-free shipping experience.",
+            "tabClass2Description": "Embark on effortless Auto Shipping with Overseas Shipping Inc. We specialize in transporting various vehicle types, including cars, motorbikes, jet skis, and heavy vehicles, to destinations like the UAE, Kuwait, Jordan, Saudi Arabia, Iraq, Libya, and Africa.",
+            "tabClass3Description": "Fluent in Arabic and English, we ensure a top-rated, hassle-free experience for your auto shipments. Our reliable RORO and Container Shipment services have earned us acclaim, making us a trusted choice for thousands of satisfied customers."
+          }
+        ],
+        [
+          {
+            "tabClass2": "Looking to Ship Your Automobiles Overseas?",
+            "tabClass2Description": "Embark on effortless Auto Shipping with Overseas Shipping Inc. We specialize in transporting various vehicle types, including cars, motorbikes, jet skis, and heavy vehicles, to destinations like the UAE, Kuwait, Jordan, Saudi Arabia, Iraq, Libya, and Africa.",
+            "tabClass0Description": "Fluent in Arabic and English, we ensure a top-rated, hassle-free experience for your auto shipments. Our reliable RORO and Container Shipment services have earned us acclaim, making us a trusted choice for thousands of satisfied customers."
+          }
+        ],
+        [
+          {
+            "tabClass3": "cus-3"
+          }
+        ],
+
+        [
+          {
+            "tabClass5": "cus-5",
+            "accordionHeading": "Ways to Ship Cars/Vehicles"
+          }
+        ],
+        [
+          {
+            "tabClass6": "benefits"
+          }
+        ]
+      ]
+    },
+    "internationalShipping": {
+      "tabid": 0,
+      "tabHeader": "internationalshipping",
+      "tabs": [],
+      "tabContents": [
+        [
+          {
+            "tabClass7": "Looking to Ship Your Automobiles Overseas?",
+            "tabClass3Description": "Navigating the dynamic landscape of global trade demands expertise. International shipping, especially exporting, entails intricate processes and regulatory clearances. Simplify the complexities and cut costs by partnering with seasoned freight forwarders and customs brokers.",
+            "tabClass0Description": "Embark on a global journey with Overseas Shipping Inc. From the USA to destinations worldwide, we excel in Export Container Shipping. Enjoy competitive rates, enhanced visibility, and unparalleled peace of mind for your shipments.",
+            "tabClass4Description": "We know how much you care about your belongings, especially when they are precious or fragile. That's why we offer the best packing solutions for any type of item, from dishes and antiques to furniture and appliances. Whether you need corrugated boxes, padding, shrink wrap, or wooden crates, we have it all. Our packing experts will make sure your items are well-protected and ready for ocean shipping. Trust us to make your move a breeze!",
+            "accordionHeading": "Are you ready to ship your cargo overseas? Follow these simple steps and we'll take care of the rest !",
+            "accordion1Heading": "Depending on the mode of transport you choose, you'll receive a different type of Bill of Lading.",
+            "accordion1Header": "Step 1 . Provide your export consignment details",
+            "accordion2Header": "Step 2 . Payment terms",
+            "accordion3Header": "Step 3 . Export Goods Declaration",
+            "accordion4Header": "Step 4 . Required Export Documents",
+            "accordion5Header": "Step 5 . Booking Confirmation",
+            "accordion6Header": "Step 6 . Shipment Bill or B/L",
+            "accordion7Header": "Step 7 . Shipment Delivery to Consignee",
+            "accordion1Pargaraph": "Includes the cargo description, dimensions, place of loading, and export shipper information. Make sure you specify the type of shipment you want – LCL, Break Bulk, or RORO – as the dimensions may vary accordingly.",
+            "accordion2Pargaraph": "If you are a new customer, we'll ask you to pay a security deposit, which you can deduct from your final payment. If you choose airfreight, we'll need you to pay the full amount upfront, as the shipment duration is shorter.",
+            "accordion3Pargaraph": "To avoid any delays or complications, please submit your export documents in advance. These documents are essential for customs clearance and should be accurate and complete. You'll need to fill out a customs declaration document with all the relevant information about your cargo.",
+            "accordion4Pargaraph": "Here are the key documents for smooth shipping. The packing list shows what's in each package, how much, and the size and weight. The commercial invoice tells the value and terms of sale. The dock receipt proves you delivered the cargo to the port. The shipper export declaration has the exporter, consignee, and destination info. These documents are vital for customs and compliance, so be careful and thorough. Don't make any errors or leave anything out, or you'll have trouble later.",
+            "accordion5Pargaraph": "Once we receive your documents and confirm your booking, we'll send you an email with the following information",
+            "listHeading": "Booking Confirmation",
+            "list1Heading": " Estimated Date of Departure (ETD)",
+            "list2Heading": "Estimate Date of Arrival (ETA)",
+            "list3Heading": "Shipping Vessel Name, Voyage, and Route",
+            "accordion6Pargaraph": "The Bill of Lading is a contract between you and the carrier that proves that your cargo has been shipped. You should familiarize yourself with the latest Incoterms to understand the shipping terms and conditions. You'll get your Bill of Lading a few days after your cargo departs.",
+            "list4Heading": " Airway Bill for airfreight",
+            "list5Heading": "Inland Bill of Lading for international land or rail transportation",
+            "list6Heading": "Ocean Bill of Lading for sea freight",
+            "accordion7Pargaraph": "After we receive your payment, we'll issue a telex release for your cargo. This means that your consignee can collect your cargo from the destination port within 5 days after we confirm your payment.",
+            "accordion8Pargaraph": "That's it! You've successfully booked a shipment via email with Overseas Shipping. We hope you enjoy our service and look forward to working with you again!",
+            "accordionHeading1": "Ways to Ship Overseas",
+            "accordion8Header": "LCL Shipping (Less-Than-Container Load)",
+            "accordion9Header": "FCL Shipping (Full Container Load)",
+            "accordion10Header": "Freight Consolidation",
+            "accordion9Pargaraph": "When your cargo doesn't fill an entire container, LCL Shipping is the answer. Here, you'll share the container's cost with other shippers and consignees. You pay only for the space your shipment occupies and its weight. This cost-effective approach is ideal for shipping smaller export quantities, such as household goods and motor vehicles, to overseas destinations.",
+            "accordion10Pargaraph": "Live Load: We kick-start the FCL process by collecting an empty container and sending it to your location, whether it's your home or factory. You'll have a generous 2-hour window to pack, crate, brace, and seal your goods. If you opt for our packing services, there will be additional charges. Extended container detention may also incur extra fees.",
+            "accordion11Pargaraph": "Drop and Pick Load: Similar to Live Load, but with the convenience of 2-3 days for packing and loading. This is a great choice if your departure port is nearby. For longer distances, Live Load is the more practical option, even if it means higher inland transportation costs.",
+            "accordion12Pargaraph": "Warehouse Load: Minimize inland freight costs by delivering your household goods or vehicles to our warehouse. Upon receipt, we'll secure your cargo and consolidate it into the container for FCL shipping. Finally, we'll deliver it to the shipping port. This method offers both safety and convenience for shipping a full container load of household goods.",
+            "accordion13Pargaraph": "For Air or Sea shipping, freight consolidation services aim to streamline the time and cost of container shipping. In simple terms, it involves bundling the goods of multiple consignees with less-than-container-load (LCL) shipments into a single consolidated container load. Overseas Shipping is a seasoned expert in international shipping, offering on-time shipment commitments, secure warehousing, efficient customer service, and professional end-to-end packing and crating services to ensure your goods are well-protected in the container."
+          }
+        ],
+        [
+          {
+            "tabClass8": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ],
+        [
+          {
+            "tabClass9": "cus-3"
+          }
+        ],
+        [
+          {
+            "tabClass10": "cus-4"
+          }
+        ],
+        [
+          {
+            "tabClass11": "cus-5"
+          }
+        ]
+      ]
+    },
+    "houseHoldShipping": {
+      "tabHeader": "householdshipping",
+      "tabs": [],
+      "tabContents": [
+        [
+          {
+            "tabClass12": "cus-6",
+            "tabHeader": "Looking for a reliable way to move your belongings overseas?",
+            "tabClass3Description": "Overseas Shipping Inc. is your best choice for exporting your goods to the world. We offer low prices, fast tracking, and excellent service for all kinds of cargo. Whether you need to ship household items, vehicles, or products, we will deliver them in 20 ft or 40 ft containers with care and security. Contact us now and let us help you grow your business globally.",
+            "tabClass0Description": " Rest assured, we handle long-distance car transportationefficiently and cost-effectively, ensuring your vehiclereaches the nearest port from your location. Proficient inMiddle East shipping regulations and fluent in both Arabicand English.",
+            "tabClass4Description": "We know how much you care about your belongings, especially when they are precious or fragile. That's why we offer the best packing solutions for any type of item, from dishes and antiques to furniture and appliances. Whether you need corrugated boxes, padding, shrink wrap, or wooden crates, we have it all. Our packing experts will make sure your items are well-protected and ready for ocean shipping. Trust us to make your move a breeze!",
+            "accordionHeading": "Here are the steps we follow to make your relocation smooth and hassle-free.",
+            "accordion1Heading": "Depending on the mode of transport you choose, you'll receive a different type of Bill of Lading.",
+            "accordion1Header": "Step 1 . Provide your contact details.",
+            "accordion2Header": "Step 2 . Receive and accept our quote",
+            "accordion3Header": "Step 3 . Book your space on the vessel",
+            "accordion4Header": "Step 4 . Pay the loading cost",
+            "accordion5Header": "Step 5 . Get ready for pickup",
+            "accordion6Header": "Step 6 . Send your goods to the port or our office",
+            "accordion7Header": "Step 7 .  Prepare the shipping document",
+            "accordion8Header": "Step 8 .  Insure your goods",
+            "accordion9Header": "Step 9 .  Get the B/L and track your shipment",
+            "accordion10Header": "Step 10 .  Enjoy your new home overseas! ",
+            "accordion1Pargaraph": "We need the following information:",
+            "accordion2Pargaraph": "We will send you a shipping quote based on your information. If you agree, please sign and send us your acceptance along with a copy of your passport.",
+            "accordion3Pargaraph": "We will reserve a spot for your goods on the shipping vessel to your destination country.",
+            "accordion4Pargaraph": "We will let you know how much it will cost to load your goods into the container.",
+            "accordion5Pargaraph": "We will arrange a pickup truck with an empty container to come to your address. Our team will pack and wrap your items securely and load them into the container.",
+            "listHeading": "Your residential address and zip code for pickup",
+            "list1Heading": "The type and quantity of goods you want to ship overseas",
+            "list2Heading": "The space you need on the shipping container",
+            "accordion6Pargaraph": "The pickup truck will take your goods to the nearest port or our office in Rosedale, Maryland.",
+            "list4Heading": " Airway Bill for airfreight",
+            "list5Heading": "Inland Bill of Lading for international land or rail transportation",
+            "list6Heading": "Ocean Bill of Lading for sea freight",
+            "accordion7Pargaraph": "We will create a shipping document that lists the shipper, consignee, and the contents of your shipment.",
+            "accordion8Pargaraph": "We can help you get insurance for your goods or you can provide us with your own insurance copy.",
+            "accordion9Pargaraph": "We will give you the bill of lading (B/L) that proves your ownership of the goods. You can use it to track your shipment online until it reaches your destination.",
+            "accordion10Pargaraph": "Your goods will arrive safely and securely at the port of your choice. You can either pick them up yourself or hire a local agent to do it for you.",
+            "accordionHeading1": "Ways to Ship Overseas",
+            "accordion12Header": "LCL Shipping (Less-Than-Container Load)",
+            "accordion13Header": "FCL Shipping (Full Container Load)",
+            "accordion11Header": "Freight Consolidation",
+            "accordion11Pargaraph": "When your cargo doesn't fill an entire container, LCL Shipping is the answer. Here, you'll share the container's cost with other shippers and consignees. You pay only for the space your shipment occupies and its weight. This cost-effective approach is ideal for shipping smaller export quantities, such as household goods and motor vehicles, to overseas destinations.",
+            "accordion12Pargaraph": "Live Load: We kick-start the FCL process by collecting an empty container and sending it to your location, whether it's your home or factory. You'll have a generous 2-hour window to pack, crate, brace, and seal your goods. If you opt for our packing services, there will be additional charges. Extended container detention may also incur extra fees.",
+            "accordion13Pargaraph": "Drop and Pick Load: Similar to Live Load, but with the convenience of 2-3 days for packing and loading. This is a great choice if your departure port is nearby. For longer distances, Live Load is the more practical option, even if it means higher inland transportation costs.",
+            "accordion14Pargaraph": "Warehouse Load: Minimize inland freight costs by delivering your household goods or vehicles to our warehouse. Upon receipt, we'll secure your cargo and consolidate it into the container for FCL shipping. Finally, we'll deliver it to the shipping port. This method offers both safety and convenience for shipping a full container load of household goods.",
+            "accordion15Pargaraph": "For Air or Sea shipping, freight consolidation services aim to streamline the time and cost of container shipping. In simple terms, it involves bundling the goods of multiple consignees with less-than-container-load (LCL) shipments into a single consolidated container load. Overseas Shipping is a seasoned expert in international shipping, offering on-time shipment commitments, secure warehousing, efficient customer service, and professional end-to-end packing and crating services to ensure your goods are well-protected in the container."
+          }
+        ],
+        [
+          {
+            "tabClass13": "cus7"
+          }
+        ],
+        [
+          {
+            "tabClass14": "cus-8"
+          }
+        ],
+
+        [
+          {
+            "tabClass16": "cus-10"
+          }
+        ],
+        [
+          {
+            "tabClass17": "cus-10"
+          }
+        ]
+      ]
+    },
+    "warehousing": {
+      "tabHeader": "warehousingshipping",
+      "tabs": [],
+      "tabContents": [
+        [
+          {
+            "tabClass18": "Space Solutions for Export and Local Delivery",
+            "tabs": ["America", "Europe", "Africa ", "Middle East", "Asia"],
+            "subtabContents": [
+              [
+                {
+                  "subtabClass1": "Looking to Ship Your Automobiles Overseas?"
+                }
+              ]
+            ],
+            "tabHeader": "Benefits:",
+            "tabHeader1": "Our Service Motto:",
+            "accordionHeading": "Warehouse Services - Secure, Safe Storage, Packing and Shipping ",
+            "tabClass1Description": "Looking for a hassle-free way to ship your goods? Look no further than Overseas Shipping Inc. We have modern warehouses with plenty of space and security. You can monitor and access your goods online anytime. And we guarantee fast and reliable delivery, no matter the destination.",
+            "tabClass2Description": "Crossdocking Services: Fast and Cost-Effective Distribution Crossdocking is a smart way to ship goods on demand. It uses advanced technology and systems to handle full truckloads with minimum time and cost. Inbound goods are sorted, combined, and stored in a staging area until they are ready to go. then they are moved to the outbound area and shipped to various locations in the USA.",
+            "tabClass0Description": "We are proud of our warehouse, the heart of our logistics. We use cutting-edge software and technology to track goods movement, notify pickups, compare shipping rates, and find materials at the warehouse.",
+            "accordion1Heading": "Space Solutions for Export and Local Delivery",
+            "accordion1Header": "Step 1 . Storage",
+            "accordion2Header": "Step 2 . Loading",
+            "accordion3Header": "Step 3 . Durable Packing",
+            "accordion4Header": "Step 4 . Export haulage",
+            "accordion5Header": "Step 5 . Documentation",
+            "accordion6Header": "Step 6 .  Freight Consolidation",
+            "accordion7Header": "Step 7 .  Inventory tracking",
+            "accordion8Header": "Step 8 .  Customs",
+            "accordion1Pargaraph": "We keep your goods and vehicles in-house and monitor them 24/7 with video surveillance. We also have a special section for temporary shipments that need customs clearance.",
+            "accordion2Pargaraph": " We can load, stuff, unload, de-van, and unstuff containers with cars, motorbikes, boats, household goods, and various export goods. We can also dismantle heavy equipment and trucks and load them into containers. We check and validate your cargo at the origin to ensure quality and accuracy.",
+            "accordion3Pargaraph": " We use the best materials and techniques to secure your containers and prevent any damage during transit. We use wood, nylon straps, steel cables, dunnage bags, and more to block, brace, and harness your containers. We also offer pallet storage, repacking, and relabelling services for long term or transit shipments.",
+            "accordion4Pargaraph": "We can pick up your goods from your factory or store and bring them to our warehouse. We can also pack your goods on-site for an extra fee if needed.",
+            "accordion5Pargaraph": "We take care of all the paperwork and processes to make your shipment smooth and hassle-free. We handle B/L processing, AES filing, and customs clearance for you.",
+            "accordion6Pargaraph": "We can combine and distribute your goods according to your shipping and customer requirements. Learn more about our Freight Consolidation Services.",
+            "accordion7Pargaraph": "We use the Magaya WMS system to track your inventory in real-time. You can access the status and information of your cargo anytime online.",
+            "accordion8Pargaraph": "We facilitate customs clearance and AES filing to ensure smooth shipment to overseas destinations."
+          }
+        ],
+
+        [
+          {
+            "tabClass19": "cus-4",
+
+            "tabHeader": "Benefits:",
+
+            "accordionHeading": "Crossdocking Services: Fast and Cost-Effective Distribution",
+            "accordion1Heading": "Depending on the mode of transport you choose, you'll receive a different type of Bill of Lading.",
+            "accordion1Header": "Step 1 . Receiving Point ",
+            "accordion2Header": "Step 2 . Sorting Zone",
+            "accordion3Header": "Step 3 .Outbound Staging",
+            "accordion1Pargaraph": "We store your incoming goods for up to 48 hours and then reload them for delivery anywhere in the USA. If you need on-demand cargo, just ask our shipping experts and we'll make it happen.",
+            "accordion2Pargaraph": "We sort, combine, and store your goods securely according to your market needs. You can trust us to keep your inventory safe and organized.",
+            "accordion3Pargaraph": "When you confirm your shipment, we move your goods from the storage to the outbound staging area. From there, we load and dispatch them to multiple locations as you wish."
+          }
+        ]
+      ]
+    },
+    "countrytab": {
+      "tabclass16": "cus-10",
+      "tabs": ["Middle East", "Africa ", "Europe ", "America", "Asia"],
+      "subtabContents": [
+        [
+          {
+            "subtabClass2": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ],
+        [
+          {
+            "subtabClass3": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ],
+        [
+          {
+            "subtabClass4": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ],
+        [
+          {
+            "subtabClass5": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ],
+        [
+          {
+            "subtabClass6": "Looking to Ship Your Automobiles Overseas?"
+          }
+        ]
+      ]
+    }
+  },
+
+  "glossary": {
+    "tabs": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "tabContents": [
+      [
+        {
+          "glossarytabTitle1": "Air Waybill",
+          "glossarytabContents1": "Bill of lading that covers both domestic and international flights transporting goods to a specified destination. It is a non-negotiable instrument of air transport that serves as a receipt for the shipper, indicating that the carrier has accepted the goods listed therein, and obligates the carrier to carry the consignment to the airport of destination according to specified conditions.",
+          "glossarytabTitle2": "Antidiversion Clause",
+          "glossarytabContents2": "To help ensure that U.S. exports go only to legally authorized destinations, the U.S. government requires a destination control statement on shipping documents. Under this requirement, the commercial invoice and bill of lading (or air waybill) for nearly all commercial shipments leaving the United States must display a statement notifying the carrier and all foreign parties that the U.S. material has been approved for export only to certain destinations and may not be diverted contrary to U.S. law.",
+          "glossarytabTitle3": "Antidumping Duty",
+          "glossarytabContents3": "Special duty imposed to offset the price effect of dumping that has been determined to be materially harmful to domestic producers.",
+          "glossarytabTitle4": "Arbitration",
+          "glossarytabContents4": "Process of resolving a dispute or a grievance outside of the court system by presenting it to an impartial third party or panel for a decision that may or may not be binding."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Bill of Lading",
+          "glossarytabContents1": "Contract between the owner of the goods and the carrier. For vessels, there are two types: a straight bill of lading, which is not negotiable, and a negotiable, or shipper’s orders, bill of lading. The latter can be bought, sold, or traded while the goods are in transit."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Carnet",
+          "glossarytabContents1": "Standardized international customs document known as an ATA (admission temporaire or temporary admission) carnet that is used to obtain duty-free temporary admission of certain goods into the countries that are signatories to the ATA Convention. Under the ATA Convention, commercial and professional travelers may take commercial samples; tools of the trade; advertising material; or cinematographic, audiovisual, medical, scientific, or other professional equipment into member countries temporarily without paying customs duties and taxes or posting a bond at the border of each country to be visited.",
+          "glossarytabTitle2": "Carriage and Insurance Paid To (CIP)",
+          "glossarytabContents2": "Carriage and insurance paid for delivery to a named destination.",
+          "glossarytabTitle3": "Carriage Paid To (CPT)",
+          "glossarytabContents3": "Carriage paid to a named destination. This term is used in place of CFR and CIF for all modes of transportation, including intermodal.",
+          "glossarytabTitle4": "Cash in Advance (advance payment)",
+          "glossarytabContents4": "Payment from a foreign customer to a U.S. exporter prior to actually receiving the exporter’s products. It is the least risky form of payment from the exporter’s perspective.",
+          "glossarytabTitle5": "Central America and Dominican Republic Free Trade Agreement (CAFTA-DR)",
+          "glossarytabContents5": "One of a series of free trade agreements involving the U.S. and other countries. Benefits include duty-free or reduced-duty access, better overall market access, treatment equal to local companies, and intellectual property protection.",
+          "glossarytabTitle6": "Certificate of Conformity",
+          "glossarytabContents6": "Signed statement from a manufacturer attesting that a product meets certain technical standards.",
+          "glossarytabTitle7": "Certificate of Free Sale",
+          "glossarytabContents7": "Signed statement from the producer or exporter attesting that a product has been commercially sold within the country of origin.",
+          "glossarytabTitle8": "Certificate of Origin (COO)",
+          "glossarytabContents8": "Signed statement required in certain nations attesting to the origin of the export item. Certificates of origin are usually validated by a semiofficial organization, such as a local chamber of commerce. A North American Free Trade Agreement (NAFTA) certificate of origin is required for products traded among the NAFTA countries (Canada, Mexico, and the United States) when duty preference is claimed for NAFTA qualified goods.",
+          "glossarytabTitle9": "Commercial Invoice",
+          "glossarytabContents9": "Document prepared by the exporter or freight forwarder and required by the foreign buyer to prove ownership and to arrange for payment to the exporter. It should provide basic information about the transaction, including a description of goods, the address of the shipper and seller, and the delivery and payment terms. In most cases, the commercial invoice is used to assess customs duties.",
+          "glossarytabTitle10": "Confirming House",
+          "glossarytabContents10": "Company based in a foreign country that acts as a foreign buyer’s agent and places confirmed orders with U.S. exporters. The confirming house guarantees payment to the exporters.",
+          "glossarytabTitle11": "Consignment",
+          "glossarytabContents11": "Delivery of merchandise to the buyer or distributor, whereby the latter agrees to sell it and only then pay the U.S. exporter. The seller retains ownership of the goods until they are sold but also carries all of the financial burden and risk.",
+          "glossarytabTitle12": "Consular Invoice",
+          "glossarytabContents12": "Document required in some countries that describes the shipment of goods and shows information such as the consignor, consignee, and value of the shipment. Certified by the consular official of the foreign country stationed in the United States, it is used by the country’s customs officials to verify the value, quantity, and nature of the shipment.",
+          "glossarytabTitle13": "Contract",
+          "glossarytabContents13": "Written or oral agreement that is legally enforceable.",
+          "glossarytabTitle14": "Copyright",
+          "glossarytabContents14": "Protection granted to the authors and creators of literary, artistic, dramatic, and musical works, sound recordings, and certain other intellectual works. A computer program, for example, is considered a literary work in the United States and some other countries.",
+          "glossarytabTitle15": "Cost and Freight (CFR)",
+          "glossarytabContents15": "Cost and freight to a named overseas port.",
+          "glossarytabTitle16": "Cost, Insurance, and Freight (CIF)",
+          "glossarytabContents16": "Cost, insurance, and freight to a named overseas post. The seller quotes a price for the goods shipped by ocean (including insurance), all transportation costs, and miscellaneous charges to the point of debarkation from the vessel.",
+          "glossarytabTitle17": "Countertrade",
+          "glossarytabContents17": "General expression meaning the sale or barter of goods on a reciprocal basis. There may also be multilateral transactions involved.",
+          "glossarytabTitle18": "Countervailing Duties",
+          "glossarytabContents18": "Additional duties imposed by an importing country to offset government subsidies in an exporting country when the subsidized imports cause material injury to domestic industry in the importing country.",
+          "glossarytabTitle19": "Customs-Bonded Warehouse",
+          "glossarytabContents19": "Building or other secured area in which dutiable goods may be stored, may be manipulated, or may undergo manufacturing operations without payment of duty.",
+          "glossarytabTitle20": "Customs Declaration",
+          "glossarytabContents20": "Document that traditionally accompanies exported goods bearing such information as the nature of the goods, their value, the consignee, and their ultimate destination. Required for statistical purposes, it accompanies all controlled goods being exported under the appropriate permit.",
+          "glossarytabTitle21": "Customs Invoice",
+          "glossarytabContents21": "Document used to clear goods through customs in the importing country by providing evidence of the value of goods. In some cases, the commercial invoice may be used for this purpose."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Date Draft",
+          "glossarytabContents1": "Document used when the exporter extends credit to the buyer. It specifies a date on which payment is due, rather than a time period as with the time draft.",
+          "glossarytabTitle2": "Destination Control Statement (DCS)",
+          "glossarytabContents2": "Required for all exports from the United States of items on the Commerce Control List that are not classified as EAR99. The statement is added to the commercial invoice.",
+          "glossarytabTitle3": "Direct Exporting",
+          "glossarytabContents3": "Sale by an exporter directly to an importer located in another country.",
+          "glossarytabTitle4": "Distributor",
+          "glossarytabContents4": "A merchant in the foreign country who purchases goods from the U.S. exporter (often at a discount) and resells them for a profit. The foreign distributor generally provides support and service for the product, relieving the U.S. exporter of these responsibilities.",
+          "glossarytabTitle5": "Dock Receipt",
+          "glossarytabContents5": "Receipt issued by an ocean carrier to acknowledge receipt of a shipment at the carrier’s dock or warehouse facilities.",
+          "glossarytabTitle6": "Documentary Letter of Credit/Documentary Draft",
+          "glossarytabContents6": "Document used to protect the interests of both buyer and seller. A letter of credit requires that payment be made on the basis of the presentation of documents to a lender conveying the title and indicating that specific steps have been taken. Letters of credit and drafts may be paid immediately or at a later date. Drafts that are paid on presentation are called sight drafts. Drafts that are to be paid at a later date, often after the buyer receives the goods, are called time drafts or date drafts.",
+          "glossarytabTitle7": "Dumping",
+          "glossarytabContents7": "Sale of an imported commodity at a price lower than the cost of production in the exporting country. Dumping is considered an actionable trade practice when it disrupts markets and injures producers of competitive products in the importing country. Article VI of the General Agreement on Tariffs and Trade (World Trade Organization) permits the imposition of special antidumping duties on goods equal to the difference between their export price and their normal value."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "E-Commerce",
+          "glossarytabContents1": "Buying and selling over the Internet.",
+          "glossarytabTitle2": "Export-Import Bank of the United States (Ex-Im Bank)",
+          "glossarytabContents2": "U.S. government organization that provides export finance products to U.S. exporters and foreign buyers of U.S. products.",
+          "glossarytabTitle3": "Export License",
+          "glossarytabContents3": "Government document that authorizes the export of specific goods, in specific quantities, to a specific destination. May be required for most or all exports to some countries, or for other countries only under special circumstances.",
+          "glossarytabTitle4": "Export Management Company (EMC)",
+          "glossarytabContents4": "Company that performs the functions that would be typically performed by the export department or the international sales department of manufacturers and suppliers. EMCs develop personalized services promoting their clients’ products to international buyers and distributors. They solicit and transact business in the names of the producers they represent or in their own name for a commission, salary, or retainer plus commission. EMCs usually specialize either by product or by foreign market. Because of their specialization, the best EMCs know their products and the markets they serve very well and usually have well-established networks of foreign distributors already in place. This immediate access to foreign markets is one of the principal reasons for using an EMC, because establishing a productive relationship with a foreign representative may be a costly and lengthy process.",
+          "glossarytabTitle5": "Export Packing List",
+          "glossarytabContents5": "List that itemizes the exported material in each package and indicates the type of package, such as a box, crate, drum, or carton. An export packing list is considerably more detailed and informative than a standard domestic packing list. It also shows the individual net, tare, and gross weights and measurements for each package (in both U.S. and metric systems).",
+          "glossarytabTitle6": "Export Processing Zone (EPZ)",
+          "glossarytabContents6": "Site in a foreign country established to encourage and facilitate international trade. EPZs include free trade zones, special economic zones, bonded warehouses, free ports, and customs zones. EPZs have evolved from initial assembly and simple processing activities to include high-tech and science parks, finance zones, logistics centers, and even tourist resorts.",
+          "glossarytabTitle7": "Export Quotas",
+          "glossarytabContents7": "Specific restrictions or ceilings imposed by an exporting country on the value or volume of certain exports designed, for example, to protect domestic producers and consumers from temporary shortages of the goods affected or to bolster their prices in world markets.",
+          "glossarytabTitle8": "Export Subsidies",
+          "glossarytabContents8": "Government payments or other financially quantifiable benefits provided to domestic producers or exporters contingent on the export of their goods and services.",
+          "glossarytabTitle9": "Export Trading Company (ETC)",
+          "glossarytabContents9": "Company that acts as an independent distributor, creating transactions by linking domestic producers and foreign buyers. As opposed to representing a given manufacturer in a foreign market, the ETC determines what U.S. products are desired in a given market and then works with U.S. producers to satisfy the demand. ETCs can perform a sourcing function, searching for U.S. suppliers to fill specific foreign requests for U.S. products.",
+          "glossarytabTitle10": "Ex Works (EXW)",
+          "glossarytabContents10": "The buyer is responsible for all export procedures, including vehicle loading, transportation, and costs arising after collection of the goods."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Foreign Agricultural Service (FAS)",
+          "glossarytabContents1": "A U.S. Department of Agriculture bureau with programs related to market development, international trade agreements and negotiations, and the collection of statistics and market information. It also administers the USDA’s export credit guarantee and food aid programs, and helps increase income and food availability in developing nations.",
+          "glossarytabTitle2": "Foreign Corrupt Practices Act (FCPA)",
+          "glossarytabContents2": "Act making it unlawful for persons or companies subject to U.S. jurisdiction to offer, pay, or promise to pay money or anything of value to any foreign official for the purpose of obtaining or retaining business. It is also unlawful to make a payment to any person while knowing that all or a portion of the payment will be offered, given, or promised, directly or indirectly, to any foreign official for the purposes of assisting the company in obtaining or retaining business. “Knowing” includes the concepts of “conscious disregard” and “willful blindness.” The FCPA also covers foreign persons or companies that commit acts in furtherance of such bribery in the territory of the United States. U.S. persons or companies, or covered foreign persons or companies, should consult an attorney when confronted with FCPA issues.",
+          "glossarytabTitle3": "Foreign-Trade Zones (FTZ)",
+          "glossarytabContents3": "Domestic U.S. sites that are considered outside U.S. customs territory and are available for activities that might otherwise be carried on overseas for customs reasons. For export operations, the zones provide accelerated export status for purposes of excise tax rebates. For reexport activities, no customs duties, federal excise taxes, or state or local ad valorem taxes are charged on foreign goods moved into zones unless and until the goods or products made from them are moved into customs territory. Thus, the use of zones can be profitable for operations involving foreign dutiable materials and components being assembled or produced in the United States for reexport.",
+          "glossarytabTitle4": "Free Alongside Ship (FAS)",
+          "glossarytabContents4": "A seller’s price for the goods, including the charge for delivery of the goods alongside at the named port of export. The seller handles the cost of wharfage, while the buyer is accountable for the costs of loading, ocean transportation, and insurance. It is the seller’s responsibility to clear the goods for export.",
+          "glossarytabTitle5": "Free In",
+          "glossarytabContents5": "Pricing term that indicates that the charterer of a vessel is responsible for the cost of loading goods onto the vessel.",
+          "glossarytabTitle6": "Free In and Out",
+          "glossarytabContents6": "Pricing term that indicates that the charterer of the vessel is responsible for the cost of loading and unloading goods from the vessel.",
+          "glossarytabTitle7": "Free on Board (FOB)",
+          "glossarytabContents7": "An international commercial term (Incoterm) that means free on board and is used in international sales contracts. In an FOB contract, a buyer and a seller agree on a designated FOB point. The seller assumes the cost of having goods packaged and ready for shipment from the FOB point, whether it is the seller’s own place of business or some intermediate point. The buyer assumes the costs and risks from the FOB point, including inland transportation costs and risks in the exporting country, as well as all subsequent transportation costs, including the costs of loading the merchandise on a vessel. If the contract stipulates “FOB vessel,” the seller bears all transportation costs to the vessel named by the buyer, as well as the costs of loading the goods on that vessel. The same principle applies to the abbreviations FOR (free on rail) and FOT (free on truck).",
+          "glossarytabTitle8": "Free Out",
+          "glossarytabContents8": "Pricing term that indicates that the charterer of the vessel is responsible for the cost of unloading goods from the vessel.",
+          "glossarytabTitle9": "Freight Forwarder",
+          "glossarytabContents9": "Agent for moving cargo to an overseas destination. These agents are familiar with the import rules and regulations of foreign countries, the export regulations of the U.S. government, the methods of shipping, and the documents related to foreign trade."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Global Entrepreneurial Ecosystem (GEE)",
+          "glossarytabContents1": "A local community support system for small and medium-size exporters.",
+          "glossarytabTitle2": "Gross Domestic Product (GDP)",
+          "glossarytabContents2": "The total value of all goods and services produced by a country."
+        }
+      ],
+      [
+        {
+          "tabTitle": "No terms available"
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Incoterms",
+          "glossarytabContents1": "See: Terms of sale.",
+          "glossarytabTitle2": "Indirect Exporting",
+          "glossarytabContents2": "Sale by the exporter to the buyer through a domestically located intermediary, such as an export management company or an export trading company.",
+          "glossarytabTitle3": "Inspection Certificate",
+          "glossarytabContents3": "Document required by some purchasers and countries to attest to the specifications of the goods shipped. The inspection is usually performed by a third party.",
+          "glossarytabTitle4": "Insurance Certificate",
+          "glossarytabContents4": "Document prepared by the exporter or freight forwarder to provide evidence that insurance against loss or damage has been obtained for the goods.",
+          "glossarytabTitle5": "Intellectual Property (IP)",
+          "glossarytabContents5": "Collective term used to refer to new ideas, inventions, designs, writings, films, and so on that are protected by a copyright, patent, or trademark.",
+          "glossarytabTitle6": "International Buyer Program (IBP)",
+          "glossarytabContents6": "A U.S. Department of Commerce program that matches U.S. exhibitors at select U.S. trade shows with foreign buyers.",
+          "glossarytabTitle7": "International Trade Administration (ITA)",
+          "glossarytabContents7": "A U.S. Department of Commerce bureau responsible for export promotion programs."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Joint Venture",
+          "glossarytabContents1": "Independent business formed cooperatively by two or more parent companies. This type of partnership is often used to avoid restrictions on foreign ownership and for longer term arrangements that require joint product development, manufacturing, and marketing."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "No Terms Avilable"
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Letter of Credit",
+          "glossarytabContents1": "Instrument issued by a bank on behalf of an importer that guarantees an exporter payment for goods or services, provided that the terms of the credit are met. A letter of credit issued by a foreign bank is sometimes confirmed by a U.S. bank. This confirmation means that the U.S. bank (the confirming bank) adds its promise to pay to that of the foreign bank (the issuing bank). A letter of credit may be either irrevocable, in which case it cannot be changed unless both parties agree, or revocable, in which case either party may unilaterally make changes. A revocable letter of credit is inadvisable as it carries many risks for the exporter.",
+          "glossarytabTitle2": "Licensing",
+          "glossarytabContents2": "Arrangement in which a company sells the rights to use its products or services but retains some control. Although not usually considered to be a form of partnership, licensing can lead to partnerships."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Market Survey",
+          "glossarytabContents1": "Report that provides a narrative description and assessment of a particular market along with relevant statistics. The reports are often based on original research conducted in the countries studied and may include specific information on both buyers and competitors.",
+          "glossarytabTitle2": "Multilateral Development Bank (MDB)",
+          "glossarytabContents2": "An institution created by a group of countries to provide development-related financing and professional advising."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "NAFTA Certificate of Origin",
+          "glossarytabContents1": "Used by NAFTA signatories (i.e. Canada, Mexico, and the United States) to determine if goods imported into their countries receive reduced or eliminated duty.",
+          "glossarytabTitle2": "North American Free Trade Agreement (NAFTA)",
+          "glossarytabContents2": "Trade agreement between the U.S., Canada, and Mexico featuring duty-free entry and other benefits for goods that qualify."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Office of the U.S. Trade Representative",
+          "glossarytabContents1": "U.S. government agency responsible for negotiating trade agreements."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Packing List",
+          "glossarytabContents1": "See: Export packing list.",
+          "glossarytabTitle2": "Patent",
+          "glossarytabContents2": "Right that entitles the patent holder, within the country that granted or recognizes the patent, to prevent all others, for a set period of time, from using, making, or selling the subject matter of the patent.",
+          "glossarytabTitle3": "Piggyback Marketing",
+          "glossarytabContents3": "Arrangement in which one manufacturer or service company distributes a second company’s product or service. The most common piggybacking situation is when a U.S. company has a contract with an overseas buyer to provide a wide range of products or services. Often this first company does not produce all of the products it is under contract to provide, and it turns to other U.S. companies to provide the remaining products.",
+          "glossarytabTitle4": "Primary Market Research",
+          "glossarytabContents4": "Collection of data directly from a foreign marketplace through interviews, surveys, and other direct contact with representatives and potential buyers. Primary market research has the advantage of being tailored to your company’s needs and provides answers to specific questions, but the collection of such data is time consuming and expensive.",
+          "glossarytabTitle5": "Pro Forma Invoice",
+          "glossarytabContents5": "Invoice prepared by the exporter before shipping the goods, informing the buyer of the goods to be sent, their value, and other key specifications."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Quotation",
+          "glossarytabContents1": "Offer by the exporter to sell the goods at a stated price and under certain conditions."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Regional Value Content (RVC)",
+          "glossarytabContents1": "A technique used to determine whether a product meets a rule of origin.",
+          "glossarytabTitle2": "Remarketer",
+          "glossarytabContents2": "Export agent or merchant who purchases products directly from the manufacturer, packing and marking the products according to his or her own specifications. Remarketers then sell these products overseas through their contacts in their own names and assume all risks."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Sales Representative",
+          "glossarytabContents1": "Representative who uses your company’s product literature and samples to present the product to potential buyers. An overseas sales representative is the equivalent of a manufacturer’s representative in the United States. The sales representative usually works on a commission basis, assumes no risk or responsibility, and is under contract for a definite period of time.",
+          "glossarytabTitle2": "Secondary Market Research",
+          "glossarytabContents2": "Collection of data from various sources, such as trade statistics for a country or a product. Working with secondary sources is less expensive and helps your company focus its marketing efforts. Although secondary data sources are critical to market research, they do have limitations. The most recent statistics for some countries may be more than 2 years old, and the data may be too broad to be of much value to your company.",
+          "glossarytabTitle3": "Shipper’s Export Declaration (SED)",
+          "glossarytabContents3": "Document used to control exports and act as a source document for official U.S. export statistics. SEDs, or their electronic equivalent, are required for shipments when the value of the commodities, classified under any single Schedule B number, is more than $2,500. SEDs must be prepared and submitted, regardless of value, for all shipments requiring an export license or destined for countries restricted by the Export Administration Regulations.",
+          "glossarytabTitle4": "Sight Draft",
+          "glossarytabContents4": "Document used when the exporter wishes to retain title to the shipment until it reaches its destination and payment is made. Before the shipment can be released to the buyer, the original “order” ocean bill of lading (the document that evidences title) must be properly endorsed by the buyer and surrendered to the carrier. It is important to note that air waybills do not need to be presented in order for the buyer to claim the goods. Thus, risk increases when a sight draft is being used with an air shipment.",
+          "glossarytabTitle5": "Small Business Development Center (SBDC)",
+          "glossarytabContents5": "National network of counselors for small enterprises. Offers services that can help first-time exporters."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "Tariff",
+          "glossarytabContents1": "Tax imposed on a product when it is imported into a country. Some foreign countries apply tariffs to exports.",
+          "glossarytabTitle2": "Technology Licensing",
+          "glossarytabContents2": "Contractual arrangement in which the licenser’s patents, trademarks, service marks, copyrights, trade secrets, or other intellectual property may be sold or made available to a licensee for compensation that is negotiated in advance between the parties. U.S. companies frequently license their technology to foreign companies that then use it to manufacture and sell products in a country or group of countries defined in the licensing agreement. A technology licensing agreement usually enables a company to enter a foreign market quickly and poses fewer financial and legal risks than owning and operating a foreign manufacturing facility or participating in an overseas joint venture.",
+          "glossarytabTitle3": "Terms of Sale",
+          "glossarytabContents3": "Terms that define the obligations, risks, and costs of the buyer and seller involving the delivery of goods that comprise the export transaction. These terms are commonly known as Incoterms.",
+          "glossarytabTitle4": "Time Draft",
+          "glossarytabContents4": "Document used when the exporter extends credit to the buyer. The draft states that payment is due by a specific time after the buyer accepts the time draft and receives the goods. By signing and writing “accepted” on the draft, the buyer is formally obligated to pay within the stated time.",
+          "glossarytabTitle5": "Trade Fair Certification Program (TFC)",
+          "glossarytabContents5": "A U.S. Department of Commerce program that certifies international trade events so U.S. companies can know ahead of time if an event is high quality and offers opportunities.",
+          "glossarytabTitle6": "Trademark",
+          "glossarytabContents6": "Word, symbol, name, slogan, or combination thereof that identifies and distinguishes the source of sponsorship of goods and may serve as an index of quality of a particular product.",
+          "glossarytabTitle7": "Trade Statistics",
+          "glossarytabContents7": "Data that indicate total exports or imports by country and by product. They allow you to compare the size of the market for a product in various countries. By looking at statistics over several years, you can determine which markets are growing and which markets are shrinking.",
+          "glossarytabTitle8": "Trading House",
+          "glossarytabContents8": "Company specializing in the exporting and importing of goods produced or provided by other companies."
+        }
+      ],
+      [
+        {
+          "glossarytabTitle1": "U.S. Agency for International Development (USAID)",
+          "glossarytabContents1": "U.S. government agency that procures goods and services from U.S. companies for use in developing countries.",
+          "glossarytabTitle2": "U.S. Central Intelligence Agency (CIA)",
+          "glossarytabContents2": "A branch of government tasked with gathering intelligence and statistics. Publishes the World Factbook, an important market research resource.",
+          "glossarytabTitle3": "U.S. Commercial Service (CS)",
+          "glossarytabContents3": "The trade promotion arm of the U.S. Department of Commerce’s International Trade Administration.",
+          "glossarytabTitle4": "U.S. Department of Agriculture (USDA)",
+          "glossarytabContents4": "A branch of government responsible for developing and executing federal government policy on farming, agriculture, forestry, and food.",
+          "glossarytabTitle5": "U.S. Department of Commerce (DOC)",
+          "glossarytabContents5": "A branch of government responsible for promoting domestic economic growth.",
+          "glossarytabTitle6": "U.S. Small Business Administration (SBA)",
+          "glossarytabContents6": "U.S. government agency that manages programs for U.S. exporters, including finance programs.",
+          "glossarytabTitle7": "U.S. Trade and Development Agency (USTDA)",
+          "glossarytabContents7": "U.S. government agency that provides grants for feasibility studies in developing countries."
+        }
+      ],
+      [
+        {
+          "tabTitle": "No terms available"
+        }
+      ],
+      [
+        {
+          "tabTitle": "Warehouse Receipt",
+          "tabContents": "Receipt identifying the commodities deposited in a recognized warehouse. It is used to transfer accountability when the domestic carrier moves the export item to the port of embarkation and leaves it with the ship line for export."
+        }
+      ],
+      [
+        {
+          "tabTitle": "No terms available"
+        }
+      ],
+      [
+        {
+          "tabTitle": "No terms available"
+        }
+      ],
+      [
+        {
+          "tabTitle": "No terms available"
+        }
+      ]
+    ]
+  }
+}

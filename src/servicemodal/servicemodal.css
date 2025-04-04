@@ -1,0 +1,204 @@
+.modalContainer {
+  width: 89% !important;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  z-index: 9999;
+}
+.close {
+  background-image: linear-gradient(135deg, #ffb629, #ffda56 50%, #ffd7a6);
+  border: none;
+  padding: 5px 10px 5px 10px;
+  border-radius: 50%;
+}
+.recaptchatable #recaptcha_response_field {
+  margin-left: -40%;
+}
+.recaptcha-style {
+  margin-left: 40%;
+  margin-top: 10%;
+}
+.spinners-style{
+  margin-left: 3%;
+}
+.close:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  ) !important;
+}
+.searchWrapper {
+  background: #b7b5b5 !important;
+}
+.Overlay {
+  background-color: #4a4a4a !important;
+  width: 113%;
+  height: 170%;
+  border-radius: 12px;
+  position: absolute !important;
+  opacity: 0.7;
+  right: -11px;
+}
+
+.font-semibold {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: white !important;
+}
+.Containerservice {
+  /* background-image: linear-gradient(
+      to right,
+      rgb(9, 18, 66) 0%,
+      #5472d2 50%,
+      #00c1cf 100%
+    ); */
+  background-image: url(/src/assets/form-bg3new.jpg) !important;
+  width: 600px;
+  height: 850px !important;
+  position: relative;
+  left: 20%;
+  top: 20%;
+  border-radius: 15px;
+  text-align: -webkit-center;
+}
+.error-input {
+  border-color: red;
+  background-color: #fee;
+}
+
+::placeholder {
+  color: black !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+.highlightOption {
+  background-color: black !important;
+}
+.closeicon-style {
+  font-size: 25px !important;
+  color: white !important;
+}
+
+.multiSelectContainer li:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  ) !important;
+  color: #fff;
+  cursor: pointer;
+}
+.modal-input-style{
+margin-left: 20%;
+}
+.capha-padding-style{
+  margin-left: 34%;
+}
+/* media Qurey  */
+
+@media (max-width: 576px) {
+  .capha-padding-style{
+    margin-left: 34%;
+  }
+  .textmessage-style{
+    width: 150%;
+    margin-left: -26%;
+  }
+  .modal-input-style2{
+    margin-left: -50%;
+    margin-right: -50%;
+  }
+  .modal-input-style{
+    margin-left: 0%;
+    }
+  .Containerservice {
+    width: 350px;
+    height: 990px !important;
+    left: -19%;
+    top: 10%;
+    background-size: cover;
+  }
+  .modelTop {
+    margin-top: 10px;
+  }
+  .modelTop-2 {
+    margin-top: 6%;
+  }
+ 
+  .modalContainer {
+    width: 77% !important;
+    height: 120vh;
+    position: absolute;
+    top: 0;
+    z-index: 9999;
+  }
+  .Overlay {
+    left: -30%;
+    right: 0%;
+    height: 110%;
+    width: 140%;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .Containerservice {
+    width: 350px;
+    height: 990px !important;
+    left: 3%;
+    top: 10%;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .modalContainer {
+    width: 83% !important;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 9999;
+}
+  .Containerservice {
+    width: 600px;
+    height: 800px !important;
+    left: -5%;
+    top: 10%;
+    background-size: cover;
+  }
+  .Overlay {
+    background-color: #4a4a4a !important;
+    width: 121%;
+    height: 150%;
+    border-radius: 12px;
+    position: absolute !important;
+    opacity: 0.7;
+    right: 1px;
+}
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .modalContainer {
+    width: 86% !important;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 9999;
+}
+  .Containerservice {
+    width: 600px;
+    height: 800px !important;
+    left: 7%;
+    top: 10%;
+    background-size: cover;
+  }
+  .Overlay {
+    background-color: #4a4a4a !important;
+    width: 121%;
+    height: 100%;
+    border-radius: 12px;
+    position: absolute !important;
+    opacity: 0.7;
+    right: 1px;
+}
+}

@@ -1,0 +1,43 @@
+.bannerCarousel {
+  height: 750px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin-top: -78px;
+}
+
+.bannerCarousel .slides {
+  position: absolute;
+  left: 0;
+  transform: translateY(-50%);
+  display: flex;
+  top: 309px;
+  transition: 1s ease-in-out all;
+}
+
+.bannerCarousel .slides .slide {
+  height: 900px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  position: relative;
+  width: 100vw;
+}
+
+.slideText {
+  background-color: rgb(41, 40, 45, 0.5);
+  position: relative;
+  top: 41%;
+  left: 25px;
+  padding: 20px;
+}
+
+.slide:nth-child(3) .slideText,
+.slide:nth-child(2) .slideText,
+.slide:nth-child(5) .slideText {
+  background-color: rgb(41, 40, 45, 0.5);
+  position: relative;
+  top: 41%;
+  left: calc(100% - 610px);
+  padding: 20px;
+}

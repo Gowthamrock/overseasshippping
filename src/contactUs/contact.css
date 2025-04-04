@@ -1,0 +1,96 @@
+.arrow-style1 {
+  color: rgb(255, 255, 255) !important;
+  background-color: rgba(29, 115, 231, 1) !important;
+  border: 10px solid rgba(29, 115, 231, 1) !important;
+  border-radius: 20px !important;
+  float: right !important;
+  margin-right: 25% !important;
+}
+.contactbanner-image {
+  background: url(../assets/contactus-banner2.jpg);
+  width: 1600px;
+  height: 500px;
+}
+.react-tel-input .form-control {
+  height: 61px !important;
+  width: 230px !important;
+ 
+  border: 2px solid #4e5683 !important;
+}
+.react-tel-input{
+  margin-top: 15px !important;
+}
+.react-tel-input .flag-dropdown {
+  border: 2px solid #4e5683 !important;
+}
+.recaptchatable #recaptcha_response_field {
+  margin-left: -40%;
+}
+.recaptcha-style {
+  margin-left: 40%;
+  margin-top: 10%;
+}
+.spinners-style{
+  margin-left: 3%;
+}
+@media (max-width: 576px) {
+  .arrow-style1 {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(29, 115, 231, 1) !important;
+    border: 10px solid rgba(29, 115, 231, 1) !important;
+    border-radius: 20px !important;
+    float: right !important;
+    margin-right: 2% !important;
+}
+.recaptcha-style {
+  margin-left: 0%;
+  margin-top: 10%;
+}
+
+  .contactbanner-image {
+    height: 450px;
+    width: 550px;
+    background: url(../assets/contact-us-mobile.jpg);
+  }
+  .text-g88 {
+    width: 100%;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .contactbanner-image {
+    height: 400px;
+  }
+  .recaptcha-style {
+    margin-left: 60%;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 400px) and (max-width: 570px) {
+  .recaptcha-style {
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+  .react-tel-input .form-control {
+    height: 61px !important;
+    width: 100% !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .recaptcha-style {
+    margin-left: 20%;
+    margin-top: 14%;
+  }
+  .react-tel-input .form-control {
+    height: 61px !important;
+    width: 101% !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+@media (min-width: 300px) and (max-width: 400px) {
+
+  .react-tel-input .form-control {
+    height: 61px !important;
+    width: 96% !important;
+  }
+}

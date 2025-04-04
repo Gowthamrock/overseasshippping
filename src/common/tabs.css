@@ -1,0 +1,812 @@
+.tabContainer-common {
+  max-width: 100%;
+  margin: auto;
+  background-color: rgb(161 192 219);
+  padding: 50px;
+}
+.tab-heading3 {
+  /* margin-top: -30px; */
+  margin-bottom: 20px;
+  margin-left: 3px;
+  text-align: left !important ;
+}
+.accordion-style{
+  margin-left: -5%;
+  margin-right: -4%;
+}
+.tab-header1{
+  margin-top: -5%;
+}
+.tab-header2{
+  margin-top: -9%;
+
+}
+.tabContainer-common .tab-header {
+  text-align: center;
+  height: 55px !important;
+
+  padding: 16px !important;
+  background-color: #fff !important;
+  border-radius: 12px !important;
+}
+.tabContainer-common .tab-header1 {
+  /* text-align: center;
+  height: 55px !important;
+
+  padding: 16px !important; */
+  /* background-color: #fff !important; */
+  /* border-radius: 12px !important; */
+}
+.tabContainer-common .tab-header2 {
+  text-align: center;
+  height: 55px !important;
+
+  padding: 16px !important;
+  /* background-color: #fff !important; */
+  border-radius: 12px !important;
+}
+.common {
+  width: 100% !important;
+}
+.autoshipping {
+  width: 60% !important;
+  margin-left: 15%;
+}
+.internationalshipping {
+  width: 60% !important;
+  margin-left: 15%;
+}
+.householdshipping {
+  width: 60% !important;
+  margin-left: 15%;
+}
+.warehousingshipping {
+  width: 45% !important;
+  margin-left: 15%;
+}
+
+.tabContainer-common .tab-header span {
+  font-size: 16px;
+  margin: 0px 6px 0px 0px !important;
+  width: 20px;
+  height: 20px;
+  padding: 10px 15px;
+  color: #000 !important;
+  font-weight: 500 !important;
+}
+.tabContainer-common .tab-header1 span {
+  font-size: 16px;
+  margin: 0px 6px 0px 0px !important;
+  width: 20px;
+  height: 20px;
+  padding: 10px 15px;
+  color: #000 !important;
+  font-weight: 500 !important;
+}
+.tabContainer-common .tab-header2 span {
+  font-size: 16px;
+  margin: 0px 6px 0px 0px !important;
+  width: 20px;
+  height: 20px;
+  padding: 10px 15px;
+  color: #000 !important;
+  font-weight: 500 !important;
+}
+.tabContainer-common .tab-header span:hover,
+.tabContainer-common .tab-header span.active {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  color: white !important;
+  border-radius: 12px !important;
+}
+.tabContainer-common .tab-header1 span:hover,
+.tabContainer-common .tab-header1 span.active {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  color: white !important;
+  border-radius: 12px !important;
+}
+.tabContainer-common .tab-header2 span:hover,
+.tabContainer-common .tab-header2 span.active {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  color: white !important;
+  border-radius: 12px !important;
+}
+.tabContainer-common .tab-header span:hover {
+  /* margin: 0px 15px 0px 15px !important; */
+}
+.tabContainer-common .tab-content {
+  margin-left: 37px;
+  margin-top: 30px;
+}
+.tabContainer-common .tab-content .tab-description-container h2 {
+  white-space: break word;
+  font-size: 24px;
+}
+.tabContainer-common .img-modify {
+}
+.tabContainer-common .cus-1 {
+  font-size: 30px;
+}
+.tabContainer-common .image-style {
+  border-radius: 15px;
+  width: 580px !important;
+  height: 387px !important;
+}
+.tabContainer-common .image-style1 {
+  border-radius: 15px;
+  width: 580px !important;
+  height: 387px !important;
+}
+.tabContainer-common .text-container {
+  padding: 0 20px;
+  margin-top: 20px;
+}
+.tabContainer-common .text-container1 {
+  padding: 0 20px;
+  margin-top: 30px;
+}
+.card-body {
+  border: none !important;
+}
+.header-style {
+  display: inline !important;
+  font-size: 18px !important;
+  text-align: left !important;
+}
+.paragraph-style {
+  font-size: 16px !important;
+  display: inline !important;
+}
+.header-style1 {
+  margin-left: -20px;
+}
+.header-style2 {
+  font-size: 18px !important;
+  text-align: left !important;
+  margin-left: 24px !important;
+}
+.heading-style {
+  font-size: 18px !important;
+  margin-bottom: 10px;
+  text-align: left !important;
+}
+.subcontent-style {
+  font-weight: 500 !important;
+  background: #075d77;
+
+  color: #fff;
+  height: 30px;
+}
+
+.text-center {
+  font-size: 20px !important;
+}
+
+.subcontent-style1 {
+  font-weight: 500 !important;
+  background: #075d77;
+
+  color: #fff;
+}
+
+.subcontent-style2 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.subcontent-style3 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.subcontent-style4 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.subcontent-style5 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.subcontent-style6 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.subcontent-style7 {
+  font-weight: 500 !important;
+  background: #075d77;
+  color: #fff;
+}
+
+.img-style {
+  width: 75px;
+  height: 75px;
+}
+.img-style1 {
+  width: 76px;
+  height: 76px;
+}
+.dotted-line {
+  border-top: 4px dotted #ffeb3b !important;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.hr-line {
+  position: relative;
+  top: -52px;
+  border: none;
+  height: 9px;
+  background: linear-gradient(315deg, #00d1c3 50%, #ffde00 50%);
+  margin-bottom: -44px;
+  opacity: 2.9;
+}
+.description {
+  margin-top: 70px !important;
+}
+li {
+  font-size: 16px !important;
+}
+.service-modalOverlay {
+  background-color: #4a4a4a;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  position: absolute;
+  opacity: 0.7;
+  right: 140px;
+}
+/* media qurey */
+@media (min-width: 300px) and (max-width: 399px) {
+  .tab-header1{
+    margin-top: -35% !important;
+  }
+  .tab-header2{
+    margin-top: -35% !important;
+  }
+
+}
+@media (max-width: 361px) {
+
+  .tabContainer-common {
+    max-width: 100%;
+    margin: auto;
+    background-color: rgb(161 192 219);
+    padding-left: 5%;
+}
+  .tabContainer-common .tab-header {
+    height: 340px !important;
+    width: 320px !important;
+    padding: 16px !important;
+    border-radius: 12px !important;
+    word-break: break-word;
+}
+.tabContainer-common .tab-header span {
+  line-height: 3.5;
+  padding: 10px 20px;
+}
+.accordion-style {
+  margin-left: -21%;
+  margin-right: -38%;
+}
+
+  .tab-description-2 {
+    margin-left: -3% !important;
+    margin-right: 16% !important;
+  }
+  .card-description {
+    margin-left: -3%;
+    margin-right: 16%;
+  }
+ 
+  .tab-header1{
+    margin-top: -10%;
+  }
+  
+.subcontent-style {
+  height: 50px;
+}
+  .heading-style {
+    font-size: 18px !important;
+    margin-bottom: 10px;
+    text-align: left !important;
+  }
+  .description3 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  .description4 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  .header-style {
+    font-size: 14px !important;
+    display: inline !important;
+  }
+
+ 
+  .tabContainer-common .tab-header1 {
+    height: 100% !important;
+    /* width: 350px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+    margin-top: -15%;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 100% !important;
+    /* width: 340px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .common {
+    width: 50% !important;
+  }
+ 
+ 
+  .tabContainer-common .tab-header1 span {
+    line-height: 3;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+    margin: 0px 11px 0px 2px !important;
+  }
+  .autoshipping {
+    width: 100% !important;
+    margin-top: 30px;
+    margin-left: 2% !important;
+  }
+  .internationalshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .householdshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .warehousingshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .tabContainer-common .tab-content {
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+
+}
+@media(min-width:362px)and (max-width: 400px) {
+
+  .tab-description-2 {
+    margin-left: -3% !important;
+    margin-right: 16% !important;
+  }
+  .card-description {
+    margin-left: -3%;
+    margin-right: 16%;
+  }
+  .accordion-style {
+    margin-left: -21%;
+    margin-right: -42%;
+}
+  .tab-header1{
+    margin-top: -10%;
+  }
+  
+.subcontent-style {
+  height: 30px;
+}
+  .heading-style {
+    font-size: 18px !important;
+    margin-bottom: 10px;
+    text-align: left !important;
+  }
+  .description3 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  .description4 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  .header-style {
+    font-size: 14px !important;
+    display: inline !important;
+  }
+
+  .tabContainer-common .tab-header {
+    height: 340px !important;
+    width: 350px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header1 {
+    height: 100% !important;
+    /* width: 350px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+    margin-top: -15%;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 100% !important;
+    /* width: 340px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .common {
+    width: 50% !important;
+  }
+  .tabContainer-common {
+    max-width: 100%;
+    margin: auto;
+    background-color: rgb(161 192 219);
+    padding-left: 4%;
+    /* padding-bottom: 0%; */
+  }
+  .tabContainer-common .tab-header span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header1 span {
+    line-height: 3;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+    margin: 0px 11px 0px 2px !important;
+  }
+  .autoshipping {
+    width: 100% !important;
+    margin-top: 30px;
+    margin-left: 2% !important;
+  }
+  .internationalshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .householdshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .warehousingshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .tabContainer-common .tab-content {
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+}
+@media (min-width: 400px) and (max-width: 576px) {
+  .tab-description-2 {
+    margin-left: -3% !important;
+    margin-right: 16% !important;
+  }
+  .accordion-style {
+    margin-left: -38%;
+    margin-right: -38%;
+}
+  .tab-header2{
+    margin-top: -70% !important;
+  }
+  .heading-style {
+    font-size: 18px !important;
+    margin-bottom: 10px;
+    text-align: left !important;
+  }
+  .subcontent-style {
+    height: 30px;
+  }
+  .description3 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  /* .Accordion-header {
+   width: 120%;
+   height: 100%;
+
+  } */
+  /* .Accordion-body {
+    width: 170% !important;
+  } */
+ 
+  .description4 {
+    margin-top: 30px !important;
+    margin-left: -50%;
+  }
+  .header-style {
+    font-size: 14px !important;
+    display: inline !important;
+  }
+
+  .tabContainer-common .tab-header {
+    height: 340px !important;
+    width: 350px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header1 {
+    height: 100% !important;
+    /* width: 350px !important; */
+    padding: 0px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+    margin-top: -20%;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 125px !important;
+    width: 100% !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .common {
+    width: 50% !important;
+  }
+
+  .tabContainer-common {
+    max-width: 100%;
+    margin: auto;
+    background-color: rgb(161 192 219);
+    padding-left: 9%;
+    padding-bottom: 30%;
+  }
+  .tabContainer-common .tab-header span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header1 span {
+    line-height: 3;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    white-space: nowrap;
+    margin: 0px 11px 0px 10% !important;
+  }
+  .autoshipping {
+    width: 100% !important;
+    margin-top: 30px;
+    margin-left: 2% !important;
+  }
+  .internationalshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .householdshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .warehousingshipping {
+    width: 100% !important;
+    margin-left: 2% !important;
+  }
+  .tabContainer-common .tab-content {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: -40%;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .tabContainer-common .tab-header {
+    height: 200px !important;
+    width: 560px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header1 {
+    height: 200px !important;
+    width: 560px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .subcontent-style {
+    height: 50px;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 200px !important;
+    width: 560px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common {
+    max-width: 100%;
+    margin: auto;
+    background-color: rgb(161 192 219);
+    padding: 7%;
+  }
+  .tabContainer-common .tab-header span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header1 span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .accordion-style{
+    margin-left: -15%;
+    margin-right: -10%;
+  }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .tabContainer-common .tab-header {
+    height: 160px !important;
+    width: 680px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+
+  .tabContainer-common .tab-header1 {
+    height: 85px !important;
+    width: 625px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 85px !important;
+    width: 625px !important;
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header span {
+    line-height: 3.5;
+    padding: 10px 15px;
+  }
+  .tabContainer-common .tab-header1 span {
+    line-height: 3.5;
+    padding: 10px 12px;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3.5;
+    padding: 10px 12px;
+  }
+  .autoshipping {
+    margin-left: 0%;
+    /* display: none; */
+  }
+  .internationalshipping {
+    margin-left: 4%;
+  }
+  .householdshipping {
+    margin-left: 4%;
+  }
+  .warehousingshipping {
+    margin-left: 4%;
+  }
+  .tabContainer-common .tab-content {
+    margin-left: 37px;
+    margin-top: 40px;
+}
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+  .tabContainer-common .tab-content {
+    margin-left: 37px;
+    margin-top: 40px;
+}
+  .tabContainer-common .tab-header {
+    height: 150px !important;
+    /* width: 935px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header1 {
+    height: 150px !important;
+    /* width: 935px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header2 {
+    height: 150px !important;
+    /* width: 935px !important; */
+    padding: 16px !important;
+    /* background-color: #fff !important; */
+    border-radius: 12px !important;
+    word-break: break-word;
+  }
+  .tabContainer-common .tab-header span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header1 span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .tabContainer-common .tab-header2 span {
+    line-height: 3.5;
+    padding: 10px 20px;
+  }
+  .subcontent-style {
+    height: 50px;
+  }
+  .text-container {
+    padding: 0 0px !important;
+    margin-top: 10% !important;
+    margin-left: 10%;
+}
+.text-container1 {
+  padding: 0 0px !important;
+  margin-top: 10% !important;
+  margin-left: 10%;
+}
+}

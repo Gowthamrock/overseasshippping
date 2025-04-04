@@ -1,0 +1,226 @@
+.containerImage {
+  height: 650px;
+  background: url(./assets/whyus-new.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.recaptchatable #recaptcha_response_field {
+  margin-left: -40%;
+}
+.recaptcha-style {
+  margin-left: 40%;
+  margin-top: 10%;
+}
+.react-tel-input .form-control {
+  height: 61px !important;
+  width: 230px !important;
+
+  border: 2px solid #4e5683 !important;
+}
+.custom-container.react-tel-input {
+  margin-top: 12px !important;
+}
+
+.react-tel-input .flag-dropdown {
+  border: 2px solid #4e5683 !important;
+}
+
+.accordionContainer {
+  max-width: 1120px;
+}
+.certificate-style {
+  background: url(../src/assets/ncbfaa-logo.jpg);
+  width: 200px;
+  height: 60px;
+}
+.spinner-style {
+  margin-left: 3%;
+}
+
+.cta-style {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  ) !important;
+}
+.homecta-style {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  );
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.wrapper-5b3 .col-lc6.column-692.container-ccd3 {
+  margin-left: 1%;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  /* border: 2px solid #091242;
+  border-radius: 15px; */
+  /* background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  ); */
+}
+.my-cookie-buttons button {
+  background-image: linear-gradient(
+    135deg,
+    #ffb629,
+    #ffda56 50%,
+    #ffd7a6
+  ) !important;
+  color: black !important;
+  border-radius: 10px !important;
+  margin-right: 10px;
+}
+.my-cookie-buttons button:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 18, 66) 0%,
+    #5472d2 50%,
+    #00c1cf 100%
+  ) !important;
+  color: white !important;
+}
+
+.servicesContainer {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+.arrow-style {
+  color: rgb(255, 255, 255) !important;
+  background-color: rgba(29, 115, 231, 1);
+  border: 10px solid rgba(29, 115, 231, 1);
+  border-radius: 20px;
+  float: right;
+  margin-right: 26%;
+}
+.vc_-xwf2 {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+
+  /* background:  url("../src/assets/cta.jpg"); */
+  /* background-image: url(https://overseasshippinginc.com/wp-content/uploads/2020/07/imagesSS-2.jpg?id=1610) !important;  */
+  background-position: 0 0 !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 100%;
+}
+.wrapper-5b2 .col-lc6.column-691.container-ccd2 {
+  /* margin-left: 75px; */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  border: 2px solid #091242;
+  border-radius: 15px;
+  background-color: rgba(49, 198, 247, 0.75) !important;
+}
+/* media qurery  */
+@media (max-width: 400px) {
+  .text-g881 {
+    width: 94%;
+  }
+  #style-cta.style-cta {
+    margin-left: 13%;
+  }
+  .react-tel-input .form-control {
+    height: 61px !important;
+    width: 300px !important;
+  }
+  .btn-mdo.btn-qkd {
+    margin-left: 7%;
+  }
+}
+@media (min-width: 400px) and(max-width: 576px) {
+  .arrow-style {
+    margin-right: -25px !important;
+  }
+  .vc_-xwe2 {
+    margin-left: -8% !important;
+  }
+  .wrapper-5b2 .col-lc6.column-691.container-ccd2 {
+    margin-left: 15%;
+  }
+  .react-tel-input .form-control {
+    height: 61px !important;
+    width: 400px !important;
+  }
+
+  .text-white {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  }
+  .servicesTitle {
+    font-size: 25px;
+    font-weight: 400;
+    margin: 10px 30px 10px 30px;
+    line-height: normal;
+  }
+  .subtitle-wrap-dark1 {
+    margin-left: 27px;
+  }
+
+  .text-g882 {
+    width: 95%;
+  }
+  .section-rx5 {
+    margin-left: 15px;
+  }
+  .subtitle-wrap {
+    margin-left: 15px;
+  }
+}
+@media (max-width: 576px) {
+  .arrow-style {
+    margin-right: 4% !important;
+  }
+  #style-cta.style-cta {
+    margin-left: 13%;
+  }
+  .btn-mdo.btn-qkd {
+    margin-left: 7%;
+  }
+  .recaptcha-style {
+    margin-left: 3%;
+    margin-top: 10%;
+  }
+  .servicesTitle {
+    font-size: 25px;
+    font-weight: 400;
+    margin: 10px 30px 10px 30px;
+    line-height: normal;
+  }
+  .subtitle-wrap-dark1 {
+    margin-left: 35px;
+  }
+  .subtitle-wrap {
+    margin-left: 15px;
+  }
+  .section-rx5 {
+    margin-left: 15px;
+  }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  .recaptcha-style {
+    margin-left: 60%;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .servicesTitle {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 10px 30px 10px 30px;
+    line-height: normal;
+  }
+  .wrapper-5b3 .col-lc6.column-692.container-ccd3 {
+    margin-left: 0%;
+  }
+  .subtitle-wrap-dark1 {
+    margin-left: 4%;
+  }
+}
